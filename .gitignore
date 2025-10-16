@@ -35,3 +35,4 @@ library_management-*.tar
 npm-debug.log
 /assets/node_modules/
 
+library_management-dv.db*
